@@ -7,5 +7,8 @@ To fill the gaps in extant literature, this study investigates how ratings and r
 - Perform sentiment analysis on dealers reviews 
 - Regress car prices on sentiment score from reviews, rating scores and moderator variables
 
+
+![WhatsApp Image 2023-04-05 at 16 45 58](https://user-images.githubusercontent.com/60931541/233833756-6095101f-fb7a-40bb-a524-826cc397f749.jpeg)
+
 ## Data
 Data scraped from [Cars.com](https://www.cars.com/dealers/buy/)
